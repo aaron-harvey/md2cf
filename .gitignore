@@ -1,0 +1,7 @@
+.terraform
+.DS_Store
+.terraform.tfstate.lock.info
+node_modules
+*.tfstate*
+dist
+.env
